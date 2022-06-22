@@ -30,12 +30,12 @@ git clone
 - Here are the contributor(s) of the site --> Allyson(me)
 
 ## Demo
-Click the link to view the demo -->
+Click the link to view the [demo](https://www.youtube.com/watch?v=ZTcRC5qoTL8)
 
 ------------
 
 ### Questions
--You can contact me through my Github ( a-vitug ) and LinkedIn ( https://www.linkedin.com/in/vtg-allyson/ ). 
+-You can contact me through my Github [a-vitug](https://github.com/a-vitug) and [LinkedIn](https://www.linkedin.com/in/vtg-allyson/). 
 
 ## License
 MIT License
